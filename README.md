@@ -19,4 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 What is this APP?
 
 This application allows for users to imput how much they spend on there favourate steaming service a month 
-This app will calculate and add together how much a user spends a month based off what they input
+This app will calculate and add together how much a user spends a month based off what they input.
+
+it is desinged to help users realise all of the money they are spending monthly on popular subcriptions such as netflix and amazon,
+in aid of helping them save money on things they dont use.
